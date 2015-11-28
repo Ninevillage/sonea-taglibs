@@ -1,0 +1,51 @@
+{
+  "name": "sonea-taglibs",
+  "version": "0.0.1",
+  "description": "TagLib Extension to enhance template engines",
+  "main": "lib/sonea-taglibs.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninevillage/sonea-taglibs.git"
+  },
+  "keywords": [
+    "taglib",
+    "express",
+    "sonea",
+    "template",
+    "engines"
+  ],
+  "author": {
+    "name": "Ninevillage",
+    "email": "info@ninevillage.com",
+    "url": "https://www.ninevillage.com"
+  },
+  "contributors": [
+    {
+      "name": "MRW Neundorf",
+      "email": "mohammed.neundorf@ninevillage.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ninevillage/sonea-taglibs/issues"
+  },
+  "homepage": "https://github.com/Ninevillage/sonea-taglibs#readme",
+  "engines": {
+    "node": ">0.12.7",
+    "npm": ">=2.11"
+  },
+  "devDependencies": {
+    "express": "^4.13.3",
+    "mocha": "^2.3.4",
+    "should": "^7.1.1"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}

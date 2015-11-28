@@ -1,2 +1,2 @@
 # sonea-taglibs
-TagLib Extension to enhance template engines!
+TagLib extension to enhance template engines. [sonea](https://github.com/Ninevillage/sonea) extension.

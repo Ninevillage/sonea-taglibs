@@ -13,7 +13,7 @@ engines:
   coffeelint:
     enabled: true
   nodesecurity:
-    enabled: true
+    enabled: false
   eslint:
     enabled: true
 

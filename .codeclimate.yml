@@ -8,14 +8,15 @@ exclude_paths:
 - "README.md"
 
 engines:
-  fixme:
-    enabled: true
   coffeelint:
     enabled: true
-  nodesecurity:
-    enabled: false
   eslint:
     enabled: true
+
+  nodesecurity:
+    enabled: false
+  fixme:
+    enabled: false
 
 ratings:
   paths: []
